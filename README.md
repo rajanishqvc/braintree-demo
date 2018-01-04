@@ -1,4 +1,5 @@
-"# braintree-demo" 
+braintree-demo
+--------------
 
 # Overview
 Turns out that the Braintree gateway implementation was working after all.  The token was being generated, but the rest endpoint was not designed to return it.  
